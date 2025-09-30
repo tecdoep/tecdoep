@@ -74,6 +74,9 @@ Management Systems, Operating Systems
  <a href="https://www.facebook.com/daniel.es.90" target="_blank">
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
+<a href="https://gitlab.com/doepwe" target="_blank">
+ <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab"
+</a>
 
  <!--
   <a href="https://linkedin.com/in/" target="_blank">
