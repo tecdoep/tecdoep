@@ -75,7 +75,7 @@ Management Systems, Operating Systems
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"  style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/doepwe" target="_blank">
- <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab"
+ <img src="https://img.shields.io/badge/GitLab-8A2BE2?style=for-the-badge&logo=gitlab"
 </a>
 
  <!--
